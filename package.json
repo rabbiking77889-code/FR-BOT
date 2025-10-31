@@ -1,0 +1,16 @@
+{
+  "name": "whabot",
+  "version": "1.0.0",
+  "description": "Simple full-feature WhatsApp bot using baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "YOUR_NAME",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.6.0",
+    "pino": "^8.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
