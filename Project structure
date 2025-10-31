@@ -1,0 +1,15 @@
+whabot/
+├─ .gitignore
+├─ package.json
+├─ README.md
+├─ config.json
+├─ index.js
+├─ utils/
+│  └─ logger.js
+├─ commands/
+│  ├─ ping.js
+│  └─ all.js
+├─ handlers/
+│  ├─ messageHandler.js
+│  └─ groupUpdateHandler.js
+└─ sessions/   (auto-created, stores auth files)
